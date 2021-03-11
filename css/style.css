@@ -4,6 +4,11 @@
 	font-size:100%;
 	line-height:1em;}
 
+p{font-family: sans-serif;
+    padding:0em 27% 1em 27%;
+    line-height:1.5em;
+    font-size:95%;}
+
 /*---Images---*/
 
 .logo{width:18%;
@@ -14,8 +19,7 @@
 
 .title-images{
     padding-left:5%;
-    padding-right:5%;
-}
+    padding-right:5%;}
 
 .tv-title{width:12em;} 
 
@@ -23,8 +27,7 @@ ul {
   list-style-type:none;
   margin:0;
   padding:1em 0em 1em 0em;
-  text-align:center;
-}
+  text-align:center;}
 
 ul li {
   display:inline-block;
@@ -54,35 +57,27 @@ footer{font-family: sans-serif;
 
 @media (max-width:979px) {
 
-.logo{width:30%;}
+p{padding:0em 20% 1em 20%; font-size:105%;}
 
-.title-images{
-    padding-left:1%;
-    padding-right:1%;
-}
+.logo{width:22%; padding:5% 0 3% 0;}
 
-.tv-title{width:25em;} 
+.tv-title{width:13em;} 
 
-footer{font-size:.8em;}
+footer{font-size:1.1em;}
 
-.leah-link{padding:0 0 1.1em 0;}
+.leah-link{padding:0em 0 2em 0;}}
 
-}
-	
 /*---SMARTPHONE---*/
 
 @media (max-width:414px) {
+    
+p{padding:1em 18% 1em 18%; font-size:105%;}
 
-    .logo{width:50%;}
+.logo{width:40%; padding:5% 0 3% 0;}
 
-.title-images{
-    padding-left:2%;
-    padding-right:2%;
-}
+.tv-title{width:17em;} 
 
-.tv-title{width:20em;} 
+footer{font-size:1.1em;}
 
-footer{font-size:1em;}
-
-}
+.leah-link{padding:0em 0 2em 0;}}
 

@@ -1,2 +1,2 @@
-# [TV Titles vs Comic Sans](https://LeahSmyth.github.io/TV-Titles/index.html)
+#[TV Titles vs Comic Sans](https://LeahSmyth.github.io/TV-Titles-vs-Comic-Sans/index.html)
 
